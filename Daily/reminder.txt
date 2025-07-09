@@ -1,0 +1,10 @@
+so now i want to design an app with the following functions:
+1. first, when the user click the app, it will bring the user to an interface to login. users need to sign in with there email or gmail
+2. if the user havent create an account yet, there will be a sign up button for them to register with their email, if click the button, it will turn to the create account screen to create
+3. once the user has an account, they need to login:
+  if wrong password: show wrong password
+  if email not registered yet: show email not found/ not registered yet
+  if correct email with password: login successfully
+4. now the user can log in to there goal's screen
+5. in the goal screen, the user can add and delete their goals, and there will be a check box for the user to click if they have finish the goal.
+6. at 23:59 everyday, this app will send notifications to the user of the daily wrap up
